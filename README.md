@@ -1,4 +1,4 @@
-# Miyamoto-Corpus
+# [Miyamoto-Corpus](https://miragerr.github.io/Miyamoto-Corpus/)
 宮本コーパスは、日本語になくて英語にある発音のみをカバーすることで、日本語話者が効率的にAIに英語学習を行わせることを目標にしたものである。
 具体的には、CV連鎖を単位として、英語のみに存在するCV連鎖を網羅している。
 
