@@ -5,3 +5,4 @@
 
 
 ここでは、宮本コーパス作成時に用いた各プログラム、また宮本コーパス本文を掲載する。
+https://github.com/MiRageRR/Miyamoto-Corpus
